@@ -1,0 +1,59 @@
+
+header{    
+    background-position: center center;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    background-image: url(../img/robik.png);
+}
+
+h1{
+    background-color: rgba(248, 248, 248, 0.7);
+    margin-top: 350px;
+    text-align: center; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    color: #378bda; 
+    font-weight: bold;
+}
+
+h2{    
+    margin-top: 10px; 
+    color: #378bda;  
+    border-left-color: #378bda;
+    border-left-width: 3px;
+    border-left-style: dashed; 
+    text-transform: capitalize;
+    padding: 5px 15px;
+}
+
+h3{    
+    font-weight: bold;
+    color:#378bda;
+    text-align: center;    
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+
+li{
+    list-style-image: url(../img/rf.png);
+    float: left;
+    margin-left: 40px;
+}
+
+
+td,th{
+    text-align: center;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px; 
+    text-transform: uppercase;   
+}
+
+p{
+    text-align: justify;
+    text-indent: 15px;
+}
+

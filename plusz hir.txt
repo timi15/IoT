@@ -1,0 +1,5 @@
+Nagyot kaszált az okos-madáretető
+
+A modern, formatervezett etető az eledeladagolón kívül magába foglal egy leválasztható modult, amely egy kis videokamerát, mikrofont és mozgásérzékelőt tartalmaz. Ha egy madár száll az etetőre, az eszköz egy mobilalkalmazás és vezeték nélküli kapcsolat útján értesíti a tulajdonost, aki akár fényképet is készíthet a távolból. Az applikáció lehetővé teszi az így készített fotók megosztását, továbbá tanácsot ad ahhoz, hogy faja alapján milyen eledelt kapjon a látogató.
+
+Részletesen az okos-madáretetőről
